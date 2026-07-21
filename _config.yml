@@ -24,13 +24,13 @@ repository               : "Hrishikesh-03/Hrishikesh-03.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Hrishikesh Malladi"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Master's student at National Insitute of Science Education and Research, India. Majors in Physics and minors in Mathematics. Pursuing research in the field of Experimental Many-Body Physics with a background in AMO physics. "
+  location         : "NISER, Bhubaneswar, India"
+  employer         : "National Institute of Science Education and Research, India"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "hrishikeshmalladi@gmail.com" 
 
   # Academic websites
   academia         : # URL
@@ -51,13 +51,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "Hrishikesh-03"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
