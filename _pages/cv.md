@@ -2,7 +2,7 @@
 layout: archive
 title: "C.V."
 permalink: /cv/
-author_profile: true
+author_profile: false
 ---
 
 <a href="/assets/Hrishikesh_Malladi_CV_08082026.pdf" class="btn btn--info" download>Download CV (PDF)</a>
