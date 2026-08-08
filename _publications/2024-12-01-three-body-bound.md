@@ -1,8 +1,8 @@
 ---
 title: "Two and Three Body Bound States with Green's Function Approach"
-collection: publications
-catoegory: term_papers
-permalink: /_publications/green-function-bound-states
+collection: publication
+category: term_papers
+permalink: /publication/green-function-bound-states
 date: 2024-12-01
 venue: 'Term Paper - NISER'
 paperurl: 'https://drive.google.com/file/d/1e2SdTQApIG8YHP_Vz1ZA46pwCTIUih2j/preview'

@@ -1,8 +1,8 @@
 ---
 title: "Light scattering from closely-spaced atom pairs"
-collection: publications
+collection: publication
 category: conference_presentations
-permalink: /_publications/2026-damop-light-scattering
+permalink: /publication/2026-damop-light-scattering
 date: 2026-06-02
 venue: '57th Annual Meeting of the APS Division of Atomic, Molecular and Optical Physics (DAMOP 2026)'
 paperurl: 'https://meetings-archive.aps.org/damop/2026/b09/2/'

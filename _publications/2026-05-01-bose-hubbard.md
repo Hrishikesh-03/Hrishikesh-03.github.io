@@ -1,8 +1,8 @@
 ---
 title: "Analytical Investigation of the Bose-Hubbard Model in Quadratic Trap using Mean Field approach"
-collection: publications
+collection: publication
 category: term_papers
-permalink: /_publications/bose-hubbard-model
+permalink: /publication/bose-hubbard-model
 date: 2026-05-01
 venue: 'Term Paper - NISER'
 paperurl: 'https://drive.google.com/file/d/1QsXmx9oexVXXVFzFR0fCM3X-m-5fDXM4/preview'
