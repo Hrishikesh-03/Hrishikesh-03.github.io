@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 header:
- image: /homepage_banner.png
+ image: /homepage_banner_bg_free.png
 ---
 
 Hi, I’m Hrishikesh, an Integrated Master’s student at NISER who spends way too much time making things as cold as humanly possible. As an experimental AMO researcher, I work with cold atoms and Bose-Einstein condensates because regular temperatures are just far too chaotic. 
