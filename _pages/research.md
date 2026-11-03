@@ -1,16 +1,15 @@
 ---
-permalink: /
+permalink: /research/
 title: "Ongoing Research"
 author_profile: False
 redirect_from: 
-  - /research/
-  - /research.html
+  - /research.html/
 ---
 
 <div class="project-card">
 <div class="project-media">
 
-![Rb-87 MOT Setup](/assets/images/research/mot_chamber.svg)
+![Rb-87 MOT Setup](images/research/mot_chamber.svg)
 
 </div>
 <div class="project-content">
@@ -22,7 +21,7 @@ redirect_from:
 
 * **Optical Infrastructure & Recommissioning:** Recommissioned an existing $^{87}\text{Rb}$ cold-atom setup by designing and building the complete optical cooling and repumper beamlines, saturated absorption spectroscopy frequency stabilization locks, polarization-control optics, and multi-axis absorption imaging systems.
 
-![Rb-87 Setup Schematic]({{base_path}}/images/research/mot_chamber.svg)
+![Rb-87 Setup Schematic](images/research/mot_chamber.svg)
 
 * **Cooling & Atomic Cloud Optimization:** Established the $^{87}\text{Rb}$ Magneto-Optical Trap (MOT) and implemented sub-Doppler optical molasses cooling to maximize cloud phase-space density and minimize thermal expansion.
 
