@@ -30,11 +30,11 @@ Worked on a BEC experiment, consistently generating an Rb MOT and optimizing ato
 
 <script>
   const slides = [
-    "{{ base_path }}/images/nthu_slides/2024_Summer_Project_Report (1)_1",
-    "{{ base_path }}/images/nthu_slides/2024_Summer_Project_Report (1)_2",
-    "{{ base_path }}/images/nthu_slides/2024_Summer_Project_Report (1)_3",
-    "{{ base_path }}/images/nthu_slides/2024_Summer_Project_Report (1)_4",
-    "{{ base_path }}/images/nthu_slides/2024_Summer_Project_Report (1)_5"
+    "{{ base_path }}/images/nthu_slides/2024_Summer_Project_Report (1)_1.png",
+    "{{ base_path }}/images/nthu_slides/2024_Summer_Project_Report (1)_2.png",
+    "{{ base_path }}/images/nthu_slides/2024_Summer_Project_Report (1)_3.png",
+    "{{ base_path }}/images/nthu_slides/2024_Summer_Project_Report (1)_4.png",
+    "{{ base_path }}/images/nthu_slides/2024_Summer_Project_Report (1)_5.png"
   ];
 
   let currentIndex = 0;
