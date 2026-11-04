@@ -5,7 +5,7 @@ category: project_reports
 permalink: /publication/nthu-visiting-report
 date: 2024-07-01
 venue: 'Visiting Research Student Report - National Tsing Hua University'
-paperurl: 'https://drive.google.com/file/d/11ERnjmbX6S44J4exHxktn64weSe8KRBs/preview'
+# paperurl: 'https://drive.google.com/file/d/11ERnjmbX6S44J4exHxktn64weSe8KRBs/preview'
 citation: '<b>Hrishikesh Malladi</b>. (2024). &quot;Generation of Rubidium Atom Cloud in a MOT and Magnetic Transport Optimization.&quot;'
 ---
 
@@ -16,7 +16,7 @@ Worked on a BEC experiment, consistently generating an Rb MOT and optimizing ato
   
   <!-- Slide Image Display -->
   <div style="position: relative; width: 100%; overflow: hidden;">
-    <img id="slideImage" src="{{ base_path }}/images/nthu_slides/2024_Summer_Project_Report (1)_1" alt="Presentation Slide" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;">
+    <img id="slideImage" src="{{ base_path }}/images/nthu_slides/2024_Summer_Project_Report (1)_1.png" alt="Presentation Slide" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;">
   </div>
 
   <!-- Navigation Controls -->
@@ -73,20 +73,20 @@ Worked on a BEC experiment, consistently generating an Rb MOT and optimizing ato
   });
 </script>
 
-**MOT Expansion Dynamics: Before vs. After Optimization**
+**Molasses Expansion Dynamics: Before vs. After Optimization**
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px; margin-top: 15px;">
     <div style="flex: 1; min-width: 300px; text-align: center;">
         <span style="font-weight: bold; display: block; margin-bottom: 10px;">Before Optimization</span>
         <video width="100%" height="280" controls muted loop style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); background: #000;">
-            <source src="{{ base_path }}/images/MOT_Expansion/MOT Expansion Videos/MOT_33ms_3.41mm_CMP(2.679A,2.233A,0.305A)_2024-07-19T16-51-03.105.avi" type="video/x-msvideo">
+            <source src="{{ base_path }}/images/MOT_Expansion/MOT Expansion Videos/Molasses_Before_Optimisation.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
     </div>
     <div style="flex: 1; min-width: 300px; text-align: center;">
         <span style="font-weight: bold; display: block; margin-bottom: 10px;">After Optimization</span>
         <video width="100%" height="280" controls muted loop style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); background: #000;">
-            <source src="{{ base_path }}/images/MOT_Expansion/MOT Expansion Videos/MOT_33ms_2.82mm_CMP(1.96A,2.15A,0.1A)_2024-07-19T16-12-57.493.avi" type="video/x-msvideo">
+            <source src="{{ base_path }}/images/MOT_Expansion/MOT_Expansion_Videos/Molasses_After_Optimisation.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
     </div>
