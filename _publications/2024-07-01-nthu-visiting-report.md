@@ -78,10 +78,16 @@ Worked on a BEC experiment, consistently generating an Rb MOT and optimizing ato
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px; margin-top: 15px;">
     <div style="flex: 1; min-width: 300px; text-align: center;">
         <span style="font-weight: bold; display: block; margin-bottom: 10px;">Before Optimization</span>
-        <iframe src="{{ base_path }}/images/MOT_Expansion/MOT Expansion Videos/MOT_33ms_3.41mm_CMP(2.679A,2.233A,0.305A)_2024-07-19T16-51-03.105.avi" width="100%" height="280" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"></iframe>
+        <video width="100%" height="280" controls muted loop style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); background: #000;">
+            <source src="{{ base_path }}/images/MOT_Expansion/MOT Expansion Videos/MOT_33ms_3.41mm_CMP(2.679A,2.233A,0.305A)_2024-07-19T16-51-03.105.avi" type="video/x-msvideo">
+            Your browser does not support the video tag.
+        </video>
     </div>
     <div style="flex: 1; min-width: 300px; text-align: center;">
         <span style="font-weight: bold; display: block; margin-bottom: 10px;">After Optimization</span>
-        <iframe src="{{ base_path }}/images/MOT_Expansion/MOT Expansion Videos/MOT_33ms_2.82mm_CMP(1.96A,2.15A,0.1A)_2024-07-19T16-12-57.493.avi" width="100%" height="280" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"></iframe>
+        <video width="100%" height="280" controls muted loop style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); background: #000;">
+            <source src="{{ base_path }}/images/MOT_Expansion/MOT Expansion Videos/MOT_33ms_2.82mm_CMP(1.96A,2.15A,0.1A)_2024-07-19T16-12-57.493.avi" type="video/x-msvideo">
+            Your browser does not support the video tag.
+        </video>
     </div>
 </div>
