@@ -86,7 +86,7 @@ Worked on a BEC experiment, consistently generating an Rb MOT and optimizing ato
     <div style="flex: 1; min-width: 300px; text-align: center;">
         <span style="font-weight: bold; display: block; margin-bottom: 10px;">After Optimization</span>
         <video width="100%" height="280" controls muted loop style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); background: #000;">
-            <source src="{{ base_path }}/images/MOT_Expansion/MOT_Expansion_Videos/Molasses_After_Optimisation.mp4" type="video/mp4">
+            <source src="{{ base_path }}/images/MOT_Expansion/MOT Expansion Videos/Molasses_After_Optimisation.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
     </div>
