@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: false
 ---
 
-<a href="/assets/Hrishikesh_Malladi_CV_08082026.pdf" class="btn btn--info" download>Download CV (PDF)</a>
+<a href="/assets/Hrishikesh_Malladi_CV_26_11_2026.pdf" class="btn btn--info" download>Download CV (PDF)</a>
 
 ## Summary
 Aspiring experimental physicist specializing in quantum many-body physics and ultracold atoms. Experienced in MOT, BEC generation, and laser cooling. Currently investigating signatures of non-Hermitian exceptional points in cold atoms.
@@ -14,11 +14,11 @@ Aspiring experimental physicist specializing in quantum many-body physics and ul
 **Integrated MSc. in Physics (Majors), Mathematics (Minors)**
 *National Institute of Science, Education and Research; Bhubaneswar, India* (Graduating: July 2027)
 *   GPA: 8.08/10.0
-*   Accomplishments: Secured All India Rank 257 (top 1%) in NEST; 94th percentile in JEE Main; JEE Advanced Qualifier.
+*   Accomplishments: DAE DISHA Scholar, secured All India Rank 258 (97+ Percentile) in NEST; 94th percentile in JEE Main; JEE Advanced Qualifier.
 
 ## Technical Skills
-*   **Experimental Skills:** Optical Alignment, Laser Cooling, System Troubleshooting, Debugging Multi-Parameter Systems.
-*   **Data Analysis & Programming:** Python (NumPy, SciPy, OpenCV), MATLAB (Intermediate).
+*   **Experimental Skills:** Optical & Lattice Alignment, Laser Locking (Spectroscopy & Beat Notes), Magneto-Optical Trapping (MOT), Sub-Doppler Cooling, Absorption Fluorescence Imaging, Beam Profiling, System Troubleshooting, Debugging Multi-Parameter Systems
+*   **Data Analysis & Programming:** Python (PyLCP, NumPy, SciPy, OpenCV), MATLAB (Intermediate), Mathematica (ADM Package)
 *   **Design & Instrumentation:** SOLIDWORKS, LabVIEW.
 
 ## Research Experience
